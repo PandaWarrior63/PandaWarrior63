@@ -6,13 +6,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,apple,windows,aws,kubernetes,azure,elasticsearch,gatsby,github,heroku,mongodb,mysql,nextjs,redis,tailwind)](https://skillicons.dev)
 
-- 👋 Hi, I’m @PandaWarrior63
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About Me
+I'm Senior Software Enginner.
+
+- 👀 I’m interested in finding issue in complex project.
+- 🌱 I’m currently learning machine learning.
+
+
+
 
 <!---
 PandaWarrior63/PandaWarrior63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
