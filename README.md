@@ -1,4 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,php,java,go,rust,python,js,html,css)](https://skillicons.dev)
+
 
 - 👋 Hi, I’m @PandaWarrior63
 - 👀 I’m interested in ...
