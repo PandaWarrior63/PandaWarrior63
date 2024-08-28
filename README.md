@@ -11,7 +11,7 @@ I'm Senior Software Enginner.
 
 - 👀 I’m interested in finding issue in complex project.
 - 🌱 I’m currently learning machine learning.
-Telegram: @pandawarior63
+-  Telegram: @pandawarior63
 
 
 
